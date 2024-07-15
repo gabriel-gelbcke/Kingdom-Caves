@@ -1,8 +1,25 @@
 # Kingdom-Caves
 
-Jogo/Site/Banco desenvolvidos para um projeto de TCC realizado em 2022
+Jogo
+- C#
+- Unity
+- PHP
+  
+Site
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- BOOTSTRAP
+  
+Banco
+- SQL
+<br>
 
-- Desenvolvimento: Gabriel Gelbcke
-- Design de Level: Henrique William
-- Design de Personagem: Johann Patzsch
-- Documentação: Juan Diego
+Desenvolvimento: Gabriel Gelbcke
+
+Design de Level: Henrique William
+
+Design de Personagem: Johann Patzsch
+
+Documentação: Juan Diego
