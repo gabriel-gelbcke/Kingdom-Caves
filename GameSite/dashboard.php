@@ -556,22 +556,10 @@ echo"
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/isotope.min.js"></script>
-    <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/lightbox.js"></script>
-    <script src="assets/js/tabs.js"></script>
-    <script src="assets/js/video.js"></script>
-    <script src="assets/js/slick-slider.js"></script>
     <script src="assets/js/custom.js"></script>
-
-    <script src="vendor/bootstrap/js/jv1.js"></script>
-    <script src="vendor/bootstrap/js/jv2.js"></script>
     <script src="vendor/bootstrap/js/jv3.js"></script>
 
     <script>
-
-
         //according to loftblog tut
         $('.nav li:first').addClass('active');
 

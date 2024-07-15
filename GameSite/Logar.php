@@ -24,8 +24,6 @@ $result = mysqli_query($conn, $query);
 
 $row = mysqli_num_rows($result);
 
-
-
 if($row <= 0) {
     ?>
         <link rel="stylesheet" href="style.css">
